@@ -1,5 +1,5 @@
 
-![GitHub Profile Finder Logo](/ico.svg)
+![GitHub Profile Finder Logo](/public/ico.svg)
 
 Uma aplicação web que permite buscar e explorar perfis de desenvolvedores no GitHub de forma rápida e intuitiva.
 
